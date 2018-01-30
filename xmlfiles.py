@@ -1,4 +1,4 @@
-"""This module provides a facade for accessing SemEval Task 3, Subtask B datasets."""
+"""This module provides a facade for accessing unannotated SemEval Task 3, Subtask A datasets."""
 
 from zipfile import ZipFile
 

@@ -1,4 +1,4 @@
-"""This module produces SemEval Task 3, Subtask B datasets in JSON."""
+"""This module produces unannotated SemEval Task 3, Subtask A datasets in JSON."""
 
 from itertools import chain
 from json import dump
